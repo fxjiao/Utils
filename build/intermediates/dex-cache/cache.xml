@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_df254d9c26e90e2e9da119dd13e0ef9c624bb320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_8313455d1620cb51b4a4254a193a8ba70f4e4d07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_de7f66bcb9b3c1b3d5f579b909da048dd1517013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_3ff7d413097f456374d5fe6826ddbb519588a674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5bf5087254fb10755fc1847db59a747c46dd443b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f75172d9af75c7623f8044fdca2f042248b07625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8dc83a731b1dd3e8b1c555f983ddc094b16cdb08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_3b18d73816cbdfe285272dfef679c0a5e4822750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ef2615393e7ed497a17438106682d7dc3cc9aa85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_005eb1e6876878fb56fed07e1825d0f2fb4ac640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_91a7ce64bad08df0e1f02d3029021dd329d93900.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d8521482394ef2a1eba90b156d2e613bf949d5dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f873df2ec813567eac6eac787f8f5169c76a3ca5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e7f3e7605d2c555633fdab987cb1d62247c34a84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_4e12a1f7cc04c2e12de06c359e963d420fb62d51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_213922cd38c0502cda4bdb888b3a596f0928a361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/fxjiao/work/myproject/Utils/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0fdba6e9566d79c6be9c44240252739e081d67e3.jar" />
+    </item>
+
+</items>
